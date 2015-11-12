@@ -1,0 +1,2 @@
+game.o: game.cpp
+	g++ -std=c++11 -stdlib=libc++ -I /usr/local/include/allegro5 -l allegro -l allegro_main -l allegro_image -l allegro_font -l allegro_ttf -l allegro_color game.cpp player.cpp stage/stageEventManager.cpp stage/stageDisplay.cpp stage/inputManager.cpp timer.cpp tile.cpp stage/stageBuilder.cpp stage/modelManager.cpp enemy.cpp text.cpp coin.cpp stage/gameManager.cpp stage/stageManager.cpp menu/menuEventManager.cpp menu/menuDisplay.cpp menu/menu.cpp menu/menuAnimation.cpp -o game.out

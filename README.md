@@ -7,8 +7,13 @@ and uses the allegro game library. I wanted to make something that did
 not depend heavily on assets and artwork so I could focus almost
 exclusively on core gameplay.
 
-The main is located in "game.cpp". In there you will also find the
-terminal input I use to compile and my todos.
+Use the arrow keys to navigate the maze and collect all of the coins
+while avoiding enemies.
+
+"game.out" Is the current build of the game.
+
+The main is located in "game.cpp" if you're interested in following
+the code.
 
 If you have any questions/issues/suggestions feel free to send an email
 to caw742@mun.ca

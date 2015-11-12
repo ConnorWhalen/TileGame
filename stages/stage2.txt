@@ -1,0 +1,27 @@
+11111111111111111111
+1c       e        c1
+1                  1
+1ssssssssssssssssss1
+1                  1
+1                  1
+1                  1
+1      sssss       1
+1      s   s       1
+1e     s p s      e1
+1      s   s       1
+1      sssss       1
+1                  1
+1                  1
+1                  1
+1                  1
+1sss            sss1
+1  s            s  1
+1c s            s c1
+11111111111111111111
+# "This is stage 2" aquamarine Instruction.otf 80 208 24 start
+# "Press enter to begin" aquamarine Instruction.otf 88 240 16 start
+# "You are dead" aquamarine Instruction.otf 78 208 32 death
+# "Press enter to try again" aquamarine Instruction.otf 76 240 16 death
+# "FREEZE" aquamarine Instruction.otf 92 216 48 pause
+# "Good job!" aquamarine Instruction.otf 94 208 32 win
+# "Press enter to exit" aquamarine Instruction.otf 86 240 16 win

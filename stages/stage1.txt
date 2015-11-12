@@ -1,0 +1,27 @@
+11111111111111111111
+1e                 1
+11111111111111111 11
+1c                 1
+1                  1
+1            c111111
+1                  1
+1                  1
+1                  1
+1                  1
+1                  1
+1                  1
+1sssss1           c1
+1     1            1
+1     1            1
+1     1            1
+1     1            1
+1     1            1
+1p    1c          e1
+11111111111111111111
+# "Welcome to stage 1" aquamarine Instruction.otf 64 112 24 start
+# "Press enter to begin" aquamarine Instruction.otf 88 144 16 start
+# "You have died" aquamarine Instruction.otf 72 112 32 death
+# "Press enter to try again" aquamarine Instruction.otf 78 144 16 death
+# "PAUSED" aquamarine Instruction.otf 108 120 48 pause
+# "You win!" aquamarine Instruction.otf 116 112 32 win
+# "Press enter to continue" aquamarine Instruction.otf 84 144 16 win

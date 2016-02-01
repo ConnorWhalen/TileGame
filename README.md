@@ -10,7 +10,7 @@ exclusively on core gameplay.
 Use the arrow keys to navigate the maze and collect all of the coins
 while avoiding enemies.
 
-"game.out" Is the current build of the game.
+"game.out" Is the current build of the game. You need to have the Allegro library installed to run or compile the game (http://liballeg.org/download.html)
 
 The main is located in "game.cpp" if you're interested in following
 the code.
